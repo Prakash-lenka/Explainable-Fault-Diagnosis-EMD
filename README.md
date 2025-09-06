@@ -43,3 +43,5 @@ The analysis and results are available as interactive Colab notebooks:
 - [EH Dataset](https://colab.research.google.com/drive/16pVy-byRyyF14LAa673d5quHoEp7LdCn?usp=sharing)
 - [Induction Motor Dataset](https://colab.research.google.com/drive/1Zv7L4g4M5pTZ8KUgLVbgi5CSbQyHjNXV?usp=sharing)
 - [Gear Dataset](https://colab.research.google.com/drive/1MOeJe1W1Wj_UiBmvBF1jSKHjuV4VjJD_?usp=sharing)
+- [All datasets analysis](https://colab.research.google.com/drive/1qO03MAuDbor7MBtC_tPOdtLXAdJw4Yz7?usp=sharing)
+
